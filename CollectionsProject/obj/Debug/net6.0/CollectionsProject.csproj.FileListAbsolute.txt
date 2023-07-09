@@ -1,0 +1,15 @@
+C:\Users\saini\source\repos\CollectionsProject\bin\Debug\net6.0\CollectionsProject.exe
+C:\Users\saini\source\repos\CollectionsProject\bin\Debug\net6.0\CollectionsProject.deps.json
+C:\Users\saini\source\repos\CollectionsProject\bin\Debug\net6.0\CollectionsProject.runtimeconfig.json
+C:\Users\saini\source\repos\CollectionsProject\bin\Debug\net6.0\CollectionsProject.dll
+C:\Users\saini\source\repos\CollectionsProject\bin\Debug\net6.0\CollectionsProject.pdb
+C:\Users\saini\source\repos\CollectionsProject\obj\Debug\net6.0\CollectionsProject.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\CollectionsProject\obj\Debug\net6.0\CollectionsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saini\source\repos\CollectionsProject\obj\Debug\net6.0\CollectionsProject.AssemblyInfoInputs.cache
+C:\Users\saini\source\repos\CollectionsProject\obj\Debug\net6.0\CollectionsProject.AssemblyInfo.cs
+C:\Users\saini\source\repos\CollectionsProject\obj\Debug\net6.0\CollectionsProject.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\CollectionsProject\obj\Debug\net6.0\CollectionsProject.dll
+C:\Users\saini\source\repos\CollectionsProject\obj\Debug\net6.0\refint\CollectionsProject.dll
+C:\Users\saini\source\repos\CollectionsProject\obj\Debug\net6.0\CollectionsProject.pdb
+C:\Users\saini\source\repos\CollectionsProject\obj\Debug\net6.0\CollectionsProject.genruntimeconfig.cache
+C:\Users\saini\source\repos\CollectionsProject\obj\Debug\net6.0\ref\CollectionsProject.dll
